@@ -1,0 +1,1661 @@
+2016.8.30  10:38:45.125  No Lidar Data!
+2016.8.30  10:38:45.327  No Lidar Data!
+2016.8.30  10:38:45.533  No Lidar Data!
+2016.8.30  10:38:45.738  No Lidar Data!
+2016.8.30  10:38:45.943  No Lidar Data!
+2016.8.30  10:38:46.149  No Lidar Data!
+2016.8.30  10:38:46.355  No Lidar Data!
+2016.8.30  10:38:46.560  No Lidar Data!
+2016.8.30  10:38:46.765  No Lidar Data!
+2016.8.30  10:38:46.969  No Lidar Data!
+2016.8.30  10:38:47.225  No Lidar Data!
+2016.8.30  10:38:47.428  No Lidar Data!
+2016.8.30  10:38:47.634  No Lidar Data!
+2016.8.30  10:38:47.840  No Lidar Data!
+2016.8.30  10:38:48.044  No Lidar Data!
+2016.8.30  10:38:48.249  No Lidar Data!
+2016.8.30  10:38:48.454  No Lidar Data!
+2016.8.30  10:38:48.659  No Lidar Data!
+2016.8.30  10:38:48.862  No Lidar Data!
+2016.8.30  10:38:49.068  No Lidar Data!
+2016.8.30  10:38:49.275  No Lidar Data!
+2016.8.30  10:38:49.482  No Lidar Data!
+2016.8.30  10:38:49.687  No Lidar Data!
+2016.8.30  10:38:49.893  No Lidar Data!
+2016.8.30  10:38:50.101  No Lidar Data!
+2016.8.30  10:38:50.307  No Lidar Data!
+2016.8.30  10:38:50.514  No Lidar Data!
+2016.8.30  10:38:50.722  No Lidar Data!
+2016.8.30  10:38:50.927  No Lidar Data!
+2016.8.30  10:38:51.132  No Lidar Data!
+2016.8.30  10:38:51.338  No Lidar Data!
+2016.8.30  10:38:51.546  No Lidar Data!
+2016.8.30  10:38:51.751  No Lidar Data!
+2016.8.30  10:38:51.958  No Lidar Data!
+2016.8.30  10:38:52.368  No Lidar Data!
+2016.8.30  10:38:52.576  No Lidar Data!
+2016.8.30  10:38:52.782  No Lidar Data!
+2016.8.30  10:38:52.987  No Lidar Data!
+2016.8.30  10:38:53.195  No Lidar Data!
+2016.8.30  10:38:53.404  No Lidar Data!
+2016.8.30  10:38:53.612  No Lidar Data!
+2016.8.30  10:38:53.818  No Lidar Data!
+2016.8.30  10:38:54.025  No Lidar Data!
+2016.8.30  10:38:54.226  No Lidar Data!
+2016.8.30  10:38:54.433  No Lidar Data!
+2016.8.30  10:38:54.641  No Lidar Data!
+2016.8.30  10:38:54.846  No Lidar Data!
+2016.8.30  10:38:55.052  No Lidar Data!
+2016.8.30  10:38:55.257  No Lidar Data!
+2016.8.30  10:38:55.464  No Lidar Data!
+2016.8.30  10:38:55.671  No Lidar Data!
+2016.8.30  10:38:55.874  No Lidar Data!
+2016.8.30  10:38:56.081  No Lidar Data!
+2016.8.30  10:38:56.290  No Lidar Data!
+2016.8.30  10:38:56.499  No Lidar Data!
+2016.8.30  10:38:56.705  No Lidar Data!
+2016.8.30  10:38:56.911  No Lidar Data!
+2016.8.30  10:38:57.115  No Lidar Data!
+2016.8.30  10:38:57.322  No Lidar Data!
+2016.8.30  10:38:57.530  No Lidar Data!
+2016.8.30  10:38:57.736  No Lidar Data!
+2016.8.30  10:38:57.942  No Lidar Data!
+2016.8.30  10:38:58.150  No Lidar Data!
+2016.8.30  10:38:58.357  No Lidar Data!
+2016.8.30  10:38:58.560  No Lidar Data!
+2016.8.30  10:38:58.767  No Lidar Data!
+2016.8.30  10:38:58.976  No Lidar Data!
+2016.8.30  10:38:59.181  No Lidar Data!
+2016.8.30  10:38:59.382  No Lidar Data!
+2016.8.30  10:38:59.673  No Lidar Data!
+2016.8.30  10:38:59.880  No Lidar Data!
+2016.8.30  10:39:00.088  No Lidar Data!
+2016.8.30  10:39:00.684  No Lidar Data!
+2016.8.30  10:39:00.892  No Lidar Data!
+2016.8.30  10:39:01.100  No Lidar Data!
+2016.8.30  10:39:01.307  No Lidar Data!
+2016.8.30  10:39:01.518  No Lidar Data!
+2016.8.30  10:39:01.726  No Lidar Data!
+2016.8.30  10:39:01.931  No Lidar Data!
+2016.8.30  10:39:02.140  No Lidar Data!
+2016.8.30  10:39:02.345  No Lidar Data!
+2016.8.30  10:39:02.551  No Lidar Data!
+2016.8.30  10:39:02.759  No Lidar Data!
+2016.8.30  10:39:02.966  No Lidar Data!
+2016.8.30  10:39:03.175  No Lidar Data!
+2016.8.30  10:39:03.382  No Lidar Data!
+2016.8.30  10:39:03.587  No Lidar Data!
+2016.8.30  10:39:03.794  No Lidar Data!
+2016.8.30  10:39:04.001  No Lidar Data!
+2016.8.30  10:39:04.206  No Lidar Data!
+2016.8.30  10:39:04.412  No Lidar Data!
+2016.8.30  10:39:04.615  No Lidar Data!
+2016.8.30  10:39:04.817  No Lidar Data!
+2016.8.30  10:39:05.021  No Lidar Data!
+2016.8.30  10:39:05.226  No Lidar Data!
+2016.8.30  10:39:05.430  No Lidar Data!
+2016.8.30  10:39:05.639  No Lidar Data!
+2016.8.30  10:39:05.843  No Lidar Data!
+2016.8.30  10:39:06.049  No Lidar Data!
+2016.8.30  10:39:06.257  No Lidar Data!
+2016.8.30  10:39:06.461  No Lidar Data!
+2016.8.30  10:39:06.668  No Lidar Data!
+2016.8.30  10:392016.8.30  10:44:09.073  No Lidar Data!
+2016.8.30  10:44:09.277  No Lidar Data!
+2016.8.30  10:44:14.613  Error Frame!
+2016.8.30  10:44:14.663  Error Frame!
+2016.8.30  10:44:14.717  No Lidar Data!
+2016.8.30  10:44:14.922  No Lidar Data!
+2016.8.30  10:44:15.126  No Lidar Data!
+2016.8.30  10:44:15.331  No Lidar Data!
+2016.8.30  10:44:15.535  No Lidar Data!
+2016.8.30  10:44:15.741  No Lidar Data!
+2016.8.30  10:44:15.946  No Lidar Data!
+2016.8.30  10:44:16.150  No Lidar Data!
+2016.8.30  10:44:16.356  No Lidar Data!
+2016.8.30  10:44:16.561  No Lidar Data!
+2016.8.30  10:44:16.767  No Lidar Data!
+2016.8.30  10:44:16.970  No Lidar Data!
+2016.8.30  10:44:17.175  No Lidar Data!
+2016.8.30  10:44:17.378  No Lidar Data!
+2016.8.30  10:44:17.437  Error Frame!
+2016.8.30  10:44:17.643  No Lidar Data!
+2016.8.30  10:44:17.847  No Lidar Data!
+2016.8.30  10:44:18.053  No Lidar Data!
+2016.8.30  10:44:18.258  No Lidar Data!
+2016.8.30  10:44:18.465  No Lidar Data!
+2016.8.30  10:44:18.669  No Lidar Data!
+2016.8.30  10:44:18.874  No Lidar Data!
+2016.8.30  10:44:19.074  No Lidar Data!
+2016.8.30  10:44:19.282  No Lidar Data!
+2016.8.30  10:44:19.487  No Lidar Data!
+2016.8.30  10:44:19.693  No Lidar Data!
+2016.8.30  10:44:19.903  No Lidar Data!
+2016.8.30  10:44:20.109  No Lidar Data!
+2016.8.30  10:44:20.314  No Lidar Data!
+2016.8.30  10:44:20.520  No Lidar Data!
+2016.8.30  10:44:20.726  No Lidar Data!
+2016.8.30  10:44:20.929  No Lidar Data!
+2016.8.30  10:44:21.136  No Lidar Data!
+2016.8.30  10:44:21.341  No Lidar Data!
+2016.8.30  10:44:21.359  Error Frame!
+2016.8.30  10:44:21.548  No Lidar Data!
+2016.8.30  10:44:21.606  Error Frame!
+2016.8.30  10:44:21.758  No Lidar Data!
+2016.8.30  10:44:21.960  No Lidar Data!
+2016.8.30  10:44:21.973  Error Frame!
+2016.8.30  10:44:22.178  No Lidar Data!
+2016.8.30  10:44:22.263  Error Frame!
+2016.8.30  10:44:22.373  Error Frame!
+2016.8.30  10:44:22.453  Error Frame!
+2016.8.30  10:44:22.510  Error Frame!
+2016.8.30  10:44:22.553  Error Frame!
+2016.8.30  10:44:22.586  Error Frame!
+2016.8.30  10:44:22.615  Error Frame!
+2016.8.30  10:44:22.640  Error Frame!
+2016.8.30  10:44:22.663  Error Frame!
+2016.8.30  10:44:22.685  Error Frame!
+2016.8.30  10:44:22.705  Error Frame!
+2016.8.30  10:44:22.724  Error Frame!
+2016.8.30  10:44:22.744  Error Frame!
+2016.8.30  10:44:22.761  Error Frame!
+2016.8.30  10:44:22.778  Error Frame!
+2016.8.30  10:44:22.795  Error Frame!
+2016.8.30  10:44:22.811  Error Frame!
+2016.8.30  10:44:22.827  Error Frame!
+2016.8.30  10:44:22.835  Error Frame!
+2016.8.30  10:44:22.850  Error Frame!
+2016.8.30  10:44:22.865  Error Frame!
+2016.8.30  10:44:22.880  Error Frame!
+2016.8.30  10:44:22.894  Error Frame!
+2016.8.30  10:44:22.909  Error Frame!
+2016.8.30  10:44:22.923  Error Frame!
+2016.8.30  10:44:22.937  Error Frame!
+2016.8.30  10:44:22.951  Error Frame!
+2016.8.30  10:44:22.965  Error Frame!
+2016.8.30  10:44:22.979  Error Frame!
+2016.8.30  10:44:22.992  Error Frame!
+2016.8.30  10:44:23.005  Error Frame!
+2016.8.30  10:44:23.018  Error Frame!
+2016.8.30  10:44:23.030  No Lidar Data!
+2016.8.30  10:44:23.034  Error Frame!
+2016.8.30  10:44:23.044  Error Frame!
+2016.8.30  10:44:23.058  Error Frame!
+2016.8.30  10:44:23.071  Error Frame!
+2016.8.30  10:44:23.084  Error Frame!
+2016.8.30  10:44:23.097  Error Frame!
+2016.8.30  10:44:23.110  Error Frame!
+2016.8.30  10:44:23.123  Error Frame!
+2016.8.30  10:44:23.136  Error Frame!
+2016.8.30  10:44:23.148  Error Frame!
+2016.8.30  10:44:23.161  Error Frame!
+2016.8.30  10:44:23.174  Error Frame!
+2016.8.30  10:44:23.187  Error Frame!
+2016.8.30  10:44:23.199  Error Frame!
+2016.8.30  10:44:23.212  Error Frame!
+2016.8.30  10:44:23.224  Error Frame!
+2016.8.30  10:44:23.235  No Lidar Data!
+2016.8.30  10:44:23.243  Error Frame!
+2016.8.30  10:44:23.252  Error Frame!
+2016.8.30  10:44:23.262  Error Frame!
+2016.8.30  10:44:23.276  Error Frame!
+2016.8.30  10:44:23.289  Error Frame!
+2016.8.30  10:44:23.301  Error Frame!
+2016.8.30  10:44:23.314  Error Frame!
+2016.8.30  10:44:23.327  Error Frame!
+2016.8.30  10:44:23.339  Error Frame!
+2016.8.30  10:44:23.353  Error Frame!
+2016.8.30  10:44:23.365  Error Frame!
+2016.8.30  10:44:23.378  Error Frame!
+2016.8.30  10:44:23.391  Error Frame!
+2016.8.30  10:44:23.404  Error Frame!
+2016.8.30  10:44:23.417  Error Frame!
+2016.8.30  10:44:23.430  Error Frame!
+2016.8.30  10:44:23.443  Error Frame!
+2016.8.30  10:44:23.449  Error Frame!
+2016.8.30  10:44:23.463  Error Frame!
+2016.8.30  10:44:23.475  Error Frame!
+2016.8.30  10:44:23.488  Error Frame!
+2016.8.30  10:44:23.501  Error Frame!
+2016.8.30  10:44:23.514  Error Frame!
+2016.8.30  10:44:23.528  Error Frame!
+2016.8.30  10:44:23.541  Error Frame!
+2016.8.30  10:44:23.553  Error Frame!
+2016.8.30  10:44:23.566  Error Frame!
+2016.8.30  10:44:23.579  Error Frame!
+2016.8.30  10:44:23.593  Error Frame!
+2016.8.30  10:44:23.606  Error Frame!
+2016.8.30  10:44:23.619  Error Frame!
+2016.8.30  10:44:23.631  Error Frame!
+2016.8.30  10:44:23.644  Error Frame!
+2016.8.30  10:44:23.658  Error Frame!
+2016.8.30  10:44:23.671  Error Frame!
+2016.8.30  10:44:23.684  Error Frame!
+2016.8.30  10:44:23.697  Error Frame!
+2016.8.30  10:44:23.710  Error Frame!
+2016.8.30  10:44:23.724  Error Frame!
+2016.8.30  10:44:23.737  Error Frame!
+2016.8.30  10:44:23.750  Error Frame!
+2016.8.30  10:44:23.763  Error Frame!
+2016.8.30  10:44:23.776  Error Frame!
+2016.8.30  10:44:23.790  Error Frame!
+2016.8.30  10:44:23.803  Error Frame!
+2016.8.30  10:44:23.816  Error Frame!
+2016.8.30  10:44:23.830  Error Frame!
+2016.8.30  10:44:23.843  Error Frame!
+2016.8.30  10:44:23.853  No Lidar Data!
+2016.8.30  10:44:23.860  Error Frame!
+2016.8.30  10:44:23.869  Error Frame!
+2016.8.30  10:44:23.883  Error Frame!
+2016.8.30  10:44:23.896  Error Frame!
+2016.8.30  10:44:23.910  Error Frame!
+2016.8.30  10:44:23.923  Error Frame!
+2016.8.30  10:44:23.936  Error Frame!
+2016.8.30  10:44:23.950  Error Frame!
+2016.8.30  10:44:23.963  Error Frame!
+2016.8.30  10:44:23.976  Error Frame!
+2016.8.30  10:44:23.990  Error Frame!
+2016.8.30  10:44:24.003  Error Frame!
+2016.8.30  10:44:24.016  Error Frame!
+2016.8.30  10:44:24.030  Error Frame!
+2016.8.30  10:44:24.043  Error Frame!
+2016.8.30  10:44:24.055  No Lidar Data!
+2016.8.30  10:44:24.057  Error Frame!
+2016.8.30  10:44:24.070  Error Frame!
+2016.8.30  10:44:24.084  Error Frame!
+2016.8.30  10:44:24.097  Error Frame!
+2016.8.30  10:44:24.111  Error Frame!
+2016.8.30  10:44:24.124  Error Frame!
+2016.8.30  10:44:24.138  Error Frame!
+2016.8.30  10:44:24.152  Error Frame!
+2016.8.30  10:44:24.165  Error Frame!
+2016.8.30  10:44:24.179  Error Frame!
+2016.8.30  10:44:24.193  Error Frame!
+2016.8.30  10:44:24.206  Error Frame!
+2016.8.30  10:44:24.221  Error Frame!
+2016.8.30  10:44:24.234  Error Frame!
+2016.8.30  10:44:24.248  Error Frame!
+2016.8.30  10:44:24.257  No Lidar Data!
+2016.8.30  10:44:24.263  Error Frame!
+2016.8.30  10:44:24.275  Error Frame!
+2016.8.30  10:44:24.289  Error Frame!
+2016.8.30  10:44:24.303  Error Frame!
+2016.8.30  10:44:24.316  Error Frame!
+2016.8.30  10:44:24.330  Error Frame!
+2016.8.30  10:44:24.344  Error Frame!
+2016.8.30  10:44:24.358  Error Frame!
+2016.8.30  10:44:24.372  Error Frame!
+2016.8.30  10:44:24.386  Error Frame!
+2016.8.30  10:44:24.399  Error Frame!
+2016.8.30  10:44:24.413  Error Frame!
+2016.8.30  10:44:24.427  Error Frame!
+2016.8.30  10:44:24.440  Error Frame!
+2016.8.30  10:44:24.454  Error Frame!
+2016.8.30  10:44:24.463  No Lidar Data!
+2016.8.30  10:44:24.468  Error Frame!
+2016.8.30  10:44:24.482  Error Frame!
+2016.8.30  10:44:24.496  Error Frame!
+2016.8.30  10:44:24.510  Error Frame!
+2016.8.30  10:44:24.524  Error Frame!
+2016.8.30  10:44:24.538  Error Frame!
+2016.8.30  10:44:24.552  Error Frame!
+2016.8.30  10:44:24.567  Error Frame!
+2016.8.30  10:44:24.581  Error Frame!
+2016.8.30  10:44:24.596  Error Frame!
+2016.8.30  10:44:24.610  Error Frame!
+2016.8.30  10:44:24.625  Error Frame!
+2016.8.30  10:44:24.640  Error Frame!
+2016.8.30  10:44:24.654  Error Frame!
+2016.8.30  10:44:24.668  No Lidar Data!
+2016.8.30  10:44:24.673  Error Frame!
+2016.8.30  10:44:24.683  Error Frame!
+2016.8.30  10:44:24.698  Error Frame!
+2016.8.30  10:44:24.713  Error Frame!
+2016.8.30  10:44:24.727  Error Frame!
+2016.8.30  10:44:24.742  Error Frame!
+2016.82016.8.30  10:47:38.177  No Lidar Data!
+2016.8.30  10:47:38.378  No Lidar Data!
+2016.8.30  10:47:47.008  Error Frame!
+2016.8.30  10:47:47.072  Error Frame!
+2016.8.30  10:47:47.278  No Lidar Data!
+2016.8.30  10:47:47.482  No Lidar Data!
+2016.8.30  10:47:47.687  No Lidar Data!
+2016.8.30  10:47:47.892  No Lidar Data!
+2016.8.30  10:47:48.098  No Lidar Data!
+2016.8.30  10:47:48.303  No Lidar Data!
+2016.8.30  10:47:48.508  No Lidar Data!
+2016.8.30  10:47:48.713  No Lidar Data!
+2016.8.30  10:47:48.914  No Lidar Data!
+2016.8.30  10:47:49.115  No Lidar Data!
+2016.8.30  10:47:49.321  No Lidar Data!
+2016.8.30  10:47:49.525  No Lidar Data!
+2016.8.30  10:47:49.730  No Lidar Data!
+2016.8.30  10:47:49.935  No Lidar Data!
+2016.8.30  10:47:50.141  No Lidar Data!
+2016.8.30  10:47:50.346  No Lidar Data!
+2016.8.30  10:47:50.549  No Lidar Data!
+2016.8.30  10:47:50.753  No Lidar Data!
+2016.8.30  10:47:50.958  No Lidar Data!
+2016.8.30  10:47:51.163  No Lidar Data!
+2016.8.30  10:47:51.368  No Lidar Data!
+2016.8.30  10:47:51.572  No Lidar Data!
+2016.8.30  10:47:51.778  No Lidar Data!
+2016.8.30  10:47:51.986  No Lidar Data!
+2016.8.30  10:47:52.193  No Lidar Data!
+2016.8.30  10:47:52.399  No Lidar Data!
+2016.8.30  10:47:52.603  No Lidar Data!
+2016.8.30  10:47:52.788  Error Frame!
+2016.8.30  10:47:52.993  No Lidar Data!
+2016.8.30  10:47:53.201  No Lidar Data!
+2016.8.30  10:47:53.409  No Lidar Data!
+2016.8.30  10:47:53.493  Error Frame!
+2016.8.30  10:47:53.616  No Lidar Data!
+2016.8.30  10:47:53.713  Error Frame!
+2016.8.30  10:47:53.823  No Lidar Data!
+2016.8.30  10:47:53.846  Error Frame!
+2016.8.30  10:47:54.030  No Lidar Data!
+2016.8.30  10:47:54.212  Error Frame!
+2016.8.30  10:47:54.418  No Lidar Data!
+2016.8.30  10:47:54.426  Error Frame!
+2016.8.30  10:47:54.550  Error Frame!
+2016.8.30  10:47:54.627  No Lidar Data!
+2016.8.30  10:47:54.636  Error Frame!
+2016.8.30  10:47:54.692  Error Frame!
+2016.8.30  10:47:54.739  Error Frame!
+2016.8.30  10:47:54.773  Error Frame!
+2016.8.30  10:47:54.803  Error Frame!
+2016.8.30  10:47:54.829  Error Frame!
+2016.8.30  10:47:54.852  Error Frame!
+2016.8.30  10:47:54.875  Error Frame!
+2016.8.30  10:47:54.895  Error Frame!
+2016.8.30  10:47:54.915  Error Frame!
+2016.8.30  10:47:54.933  Error Frame!
+2016.8.30  10:47:54.951  Error Frame!
+2016.8.30  10:47:54.968  Error Frame!
+2016.8.30  10:47:54.985  Error Frame!
+2016.8.30  10:47:55.002  Error Frame!
+2016.8.30  10:47:55.018  Error Frame!
+2016.8.30  10:47:55.033  Error Frame!
+2016.8.30  10:47:55.049  Error Frame!
+2016.8.30  10:47:55.063  Error Frame!
+2016.8.30  10:47:55.078  Error Frame!
+2016.8.30  10:47:55.093  Error Frame!
+2016.8.30  10:47:55.108  Error Frame!
+2016.8.30  10:47:55.122  Error Frame!
+2016.8.30  10:47:55.136  Error Frame!
+2016.8.30  10:47:55.149  Error Frame!
+2016.8.30  10:47:55.164  Error Frame!
+2016.8.30  10:47:55.177  Error Frame!
+2016.8.30  10:47:55.191  Error Frame!
+2016.8.30  10:47:55.204  Error Frame!
+2016.8.30  10:47:55.217  Error Frame!
+2016.8.30  10:47:55.231  Error Frame!
+2016.8.30  10:47:55.243  No Lidar Data!
+2016.8.30  10:47:55.252  Error Frame!
+2016.8.30  10:47:55.260  Error Frame!
+2016.8.30  10:47:55.270  Error Frame!
+2016.8.30  10:47:55.283  Error Frame!
+2016.8.30  10:47:55.297  Error Frame!
+2016.8.30  10:47:55.309  Error Frame!
+2016.8.30  10:47:55.323  Error Frame!
+2016.8.30  10:47:55.335  Error Frame!
+2016.8.30  10:47:55.348  Error Frame!
+2016.8.30  10:47:55.361  Error Frame!
+2016.8.30  10:47:55.374  Error Frame!
+2016.8.30  10:47:55.387  Error Frame!
+2016.8.30  10:47:55.400  Error Frame!
+2016.8.30  10:47:55.412  Error Frame!
+2016.8.30  10:47:55.425  Error Frame!
+2016.8.30  10:47:55.438  Error Frame!
+2016.8.30  10:47:55.451  Error Frame!
+2016.8.30  10:47:55.458  Error Frame!
+2016.8.30  10:47:55.471  Error Frame!
+2016.8.30  10:47:55.484  Error Frame!
+2016.8.30  10:47:55.496  Error Frame!
+2016.8.30  10:47:55.509  Error Frame!
+2016.8.30  10:47:55.522  Error Frame!
+2016.8.30  10:47:55.536  Error Frame!
+2016.8.30  10:47:55.548  Error Frame!
+2016.8.30  10:47:55.561  Error Frame!
+2016.8.30  10:47:55.574  Error Frame!
+2016.8.30  10:47:55.588  Error Frame!
+2016.8.30  10:47:55.600  Error Frame!
+2016.8.30  10:47:55.613  Error Frame!
+2016.8.30  10:47:55.627  Error Frame!
+2016.8.30  10:47:55.640  Error Frame!
+2016.8.30  10:47:55.653  Error Frame!
+2016.8.30  10:47:55.659  Error Frame!
+2016.8.30  10:47:55.673  Error Frame!
+2016.8.30  10:47:55.686  Error Frame!
+2016.8.30  10:47:55.699  Error Frame!
+2016.8.30  10:47:55.712  Error Frame!
+2016.8.30  10:47:55.726  Error Frame!
+2016.8.30  10:47:55.739  Error Frame!
+2016.8.30  10:47:55.752  Error Frame!
+2016.8.30  10:47:55.766  Error Frame!
+2016.8.30  10:47:55.779  Error Frame!
+2016.8.30  10:47:55.792  Error Frame!
+2016.8.30  10:47:55.805  Error Frame!
+2016.8.30  10:47:55.819  Error Frame!
+2016.8.30  10:47:55.833  Error Frame!
+2016.8.30  10:47:55.846  Error Frame!
+2016.8.30  10:47:55.859  Error Frame!
+2016.8.30  10:47:55.866  Error Frame!
+2016.8.30  10:47:55.879  Error Frame!
+2016.8.30  10:47:55.893  Error Frame!
+2016.8.30  10:47:55.907  Error Frame!
+2016.8.30  10:47:55.919  Error Frame!
+2016.8.30  10:47:55.932  Error Frame!
+2016.8.30  10:47:55.946  Error Frame!
+2016.8.30  10:47:55.959  Error Frame!
+2016.8.30  10:47:55.973  Error Frame!
+2016.8.30  10:47:55.986  Error Frame!
+2016.8.30  10:47:56.000  Error Frame!
+2016.8.30  10:47:56.013  Error Frame!
+2016.8.30  10:47:56.026  Error Frame!
+2016.8.30  10:47:56.040  Error Frame!
+2016.8.30  10:47:56.054  Error Frame!
+2016.8.30  10:47:56.065  No Lidar Data!
+2016.8.30  10:47:56.070  Error Frame!
+2016.8.30  10:47:56.080  Error Frame!
+2016.8.30  10:47:56.094  Error Frame!
+2016.8.30  10:47:56.107  Error Frame!
+2016.8.30  10:47:56.121  Error Frame!
+2016.8.30  10:47:56.135  Error Frame!
+2016.8.30  10:47:56.148  Error Frame!
+2016.8.30  10:47:56.162  Error Frame!
+2016.8.30  10:47:56.176  Error Frame!
+2016.8.30  10:47:56.189  Error Frame!
+2016.8.30  10:47:56.203  Error Frame!
+2016.8.30  10:47:56.216  Error Frame!
+2016.8.30  10:47:56.230  Error Frame!
+2016.8.30  10:47:56.244  Error Frame!
+2016.8.30  10:47:56.257  Error Frame!
+2016.8.30  10:47:56.270  No Lidar Data!
+2016.8.30  10:47:56.275  Error Frame!
+2016.8.30  10:47:56.285  Error Frame!
+2016.8.30  10:47:56.298  Error Frame!
+2016.8.30  10:47:56.312  Error Frame!
+2016.8.30  10:47:56.326  Error Frame!
+2016.8.30  10:47:56.339  Error Frame!
+2016.8.30  10:47:56.353  Error Frame!
+2016.8.30  10:47:56.366  Error Frame!
+2016.8.30  10:47:56.380  Error Frame!
+2016.8.30  10:47:56.395  Error Frame!
+2016.8.30  10:47:56.408  Error Frame!
+2016.8.30  10:47:56.422  Error Frame!
+2016.8.30  10:47:56.436  Error Frame!
+2016.8.30  10:47:56.449  Error Frame!
+2016.8.30  10:47:56.464  Error Frame!
+2016.8.30  10:47:56.476  No Lidar Data!
+2016.8.30  10:47:56.479  Error Frame!
+2016.8.30  10:47:56.491  Error Frame!
+2016.8.30  10:47:56.505  Error Frame!
+2016.8.30  10:47:56.519  Error Frame!
+2016.8.30  10:47:56.533  Error Frame!
+2016.8.30  10:47:56.547  Error Frame!
+2016.8.30  10:47:56.561  Error Frame!
+2016.8.30  10:47:56.575  Error Frame!
+2016.8.30  10:47:56.589  Error Frame!
+2016.8.30  10:47:56.603  Error Frame!
+2016.8.30  10:47:56.617  Error Frame!
+2016.8.30  10:47:56.631  Error Frame!
+2016.8.30  10:47:56.645  Error Frame!
+2016.8.30  10:47:56.660  Error Frame!
+2016.8.30  10:47:56.674  Error Frame!
+2016.8.30  10:47:56.683  Error Frame!
+2016.8.30  10:47:56.695  Error Frame!
+2016.8.30  10:47:56.709  Error Frame!
+2016.8.30  10:47:56.723  Error Frame!
+2016.8.30  10:47:56.737  Error Frame!
+2016.8.30  10:47:56.752  Error Frame!
+2016.8.30  10:47:56.766  Error Frame!
+2016.8.30  10:47:56.780  Error Frame!
+2016.8.30  10:47:56.795  Error Frame!
+2016.8.30  10:47:56.808  Error Frame!
+2016.8.30  10:47:56.823  Error Frame!
+2016.8.30  10:47:56.836  Error Frame!
+2016.8.30  10:47:56.851  Error Frame!
+2016.8.30  10:47:56.865  Error Frame!
+2016.8.30  10:47:56.879  Error Frame!
+2016.8.30  10:47:56.887  Error Frame!
+2016.8.30  10:47:56.901  Error Frame!
+2016.8.30  10:47:56.915  Error Frame!
+2016.8.30  10:47:56.929  Error Frame!
+2016.8.30  10:47:56.943  Error Frame!
+2016.8.30  10:47:56.958  Error Frame!
+2016.8.30  10:47:56.972  Error Frame!
+2016.8.30  10:47:56.987  Error Frame!
+2016.8.30  10:47:57.001  Error Frame!
+2016.8.30  10:47:57.015  Error Frame!
+2016.8.30  10:47:57.029  Error Frame!
+2016.8.30  10:47:57.043  Error Frame!
+2016.8.30  10:47:57.058  Error Frame!
+2016.8.30  10:47:57.072  Error Frame!
+2016.8.30  10:47:57.086  Error Frame!
+2016.8.30  10:47:57.093  Error Frame!
+2016.8.30  10:47:57.108  Error Frame!
+2016.8.30  10:47:57.122  Error Frame!
+2016.8.30  10:47:57.137  Error Frame!
+2016.8.30  10:47:57.151  Error Frame!
+2016.8.30  10:47:57.166  Error Frame!
+2016.8.30  10:47:57.180  Error Frame!
+2016.8.30  10:47:57.196  Error Frame!
+2016.8.30  10:47:57.211  Error Frame!
+2016.8.30  10:47:57.226  Error Frame!
+2016.8.30  10:47:57.241  Error Frame!
+2016.8.30  10:47:57.256  Error Frame!
+2016.8.30  10:47:57.271  Error Frame!
+2016.8.30  10:47:57.287  Error Frame!
+2016.8.30  10:47:57.294  Error Frame!
+2016.8.30  10:47:57.309  Error Frame!
+2016.8.30  10:47:57.324  Error Frame!
+2016.8.30  10:47:57.339  Error Frame!
+2016.8.30  10:47:57.354  Error Frame!
+2016.8.30  10:47:57.371  Error Frame!
+2016.8.30  10:47:57.386  Error Frame!
+2016.8.30  10:47:57.401  Error Frame!
+2016.8.30  10:47:57.416  Error Frame!
+2016.8.30  10:47:57.432  Error Frame!
+2016.8.30  10:47:57.448  Error Frame!
+2016.8.30  10:47:57.463  Error Frame!
+2016.8.30  10:47:57.478  Error Frame!
+2016.8.30  10:47:57.494  No Lidar Data!
+2016.8.30  10:47:57.497  Error Frame!
+2016.8.30  10:47:57.509  Error Frame!
+2016.8.30  10:47:57.525  Error Frame!
+2016.8.30  10:47:57.541  Error Frame!
+2016.8.30  10:47:57.556  Error Frame!
+2016.8.30  10:47:57.573  Error Frame!
+2016.8.30  10:47:57.589  Error Frame!
+2016.8.30  10:47:57.604  Error Frame!
+2016.8.30  10:47:57.619  Error Frame!
+2016.8.30  10:47:57.635  Error Frame!
+2016.8.30  10:47:57.651  Error Frame!
+2016.8.30  10:47:57.667  Error Frame!
+2016.8.30  10:47:57.683  Error Frame!
+2016.8.30  10:47:57.697  No Lidar Data!
+2016.8.30  10:47:57.703  Error Frame!
+2016.8.30  10:47:57.714  Error Frame!
+2016.8.30  10:47:57.730  Error Frame!
+2016.8.30  10:47:57.746  Error Frame!
+2016.8.30  10:47:57.763  Error Frame!
+2016.8.30  10:47:57.778  Error Frame!
+2016.8.30  10:47:57.794  Error Frame!
+2016.8.30  10:47:57.809  Error Frame!
+2016.8.30  10:47:57.825  Error Frame!
+2016.8.30  10:47:57.841  Error Frame!
+2016.8.30  10:47:57.857  Error Frame!
+2016.8.30  10:47:57.873  Error Frame!
+2016.8.30  10:47:57.889  Error Frame!
+2016.8.30  10:47:57.905  Error Frame!
+2016.8.30  10:47:57.912  Error Frame!
+2016.8.30  10:47:57.928  Error Frame!
+2016.8.30  10:47:57.944  Error Frame!
+2016.8.30  10:47:57.960  Error Frame!
+2016.8.30  10:47:57.976  Error Frame!
+2016.8.30  10:47:57.992  Error Frame!
+2016.8.30  10:47:58.008  Error Frame!
+2016.8.30  10:47:58.024  Error Frame!
+2016.8.30  10:47:58.040  Error Frame!
+2016.8.30  10:47:58.056  Error Frame!
+2016.8.30  10:47:58.072  Error Frame!
+2016.8.30  10:47:58.111  No Lidar Data!
+2016.8.30  10:47:58.317  No Lidar Data!
+2016.8.30  10:47:58.619  Error Frame!
+2016.8.30  10:47:58.637  Error Frame!
+2016.8.30  10:47:58.657  Error Frame!
+2016.8.30  10:47:58.676  Error Frame!
+2016.8.30  10:47:58.695  Error Frame!
+2016.8.30  10:47:58.715  Error Frame!
+2016.8.30  10:47:58.734  Error Frame!
+2016.8.30  10:47:58.753  Error Frame!
+2016.8.30  10:47:58.772  Error Frame!
+2016.8.30  10:47:58.791  Error Frame!
+2016.8.30  10:47:58.810  Error Frame!
+2016.8.30  10:47:58.830  Error Frame!
+2016.8.30  10:47:58.849  Error Frame!
+2016.8.30  10:47:58.867  Error Frame!
+2016.8.30  10:47:58.887  Error Frame!
+2016.8.30  10:47:58.907  Error Frame!
+2016.8.30  10:47:58.926  Error Frame!
+2016.8.30  10:47:58.947  Error Frame!
+2016.8.30  10:47:58.966  Error Frame!
+2016.8.30  10:47:58.986  Error Frame!
+2016.8.30  10:47:59.005  Error Frame!
+2016.8.30  10:47:59.022  No Lidar Data!
+2016.8.30  10:47:59.027  Error Frame!
+2016.8.30  10:47:59.045  Error Frame!
+2016.8.30  10:47:59.064  Error Frame!
+2016.8.30  10:47:59.083  Error Frame!
+2016.8.30  10:47:59.104  Error Frame!
+2016.8.30  10:47:59.123  Error Frame!
+2016.8.30  10:47:59.142  Error Frame!
+2016.8.30  10:47:59.162  Error Frame!
+2016.8.30  10:47:59.181  Error Frame!
+2016.8.30  10:47:59.201  Error Frame!
+2016.8.30  10:47:59.220  Error Frame!
+2016.8.30  10:47:59.240  Error Frame!
+2016.8.30  10:47:59.260  Error Frame!
+2016.8.30  10:47:59.279  Error Frame!
+2016.8.30  10:47:59.299  Error Frame!
+2016.8.30  10:47:59.319  Error Frame!
+2016.8.30  10:47:59.338  Error Frame!
+2016.8.30  10:47:59.358  Error Frame!
+2016.8.30  10:47:59.378  Error Frame!
+2016.8.30  10:47:59.397  Error Frame!
+2016.8.30  10:47:59.417  Error Frame!
+2016.8.30  10:47:59.432  No Lidar Data!
+2016.8.30  10:47:59.438  Error Frame!
+2016.8.30  10:47:59.456  Error Frame!
+2016.8.30  10:47:59.476  Error Frame!
+2016.8.30  10:47:59.496  Error Frame!
+2016.8.30  10:47:59.515  Error Frame!
+2016.8.30  10:47:59.535  Error Frame!
+2016.8.30  10:47:59.554  Error Frame!
+2016.8.30  10:47:59.638  No Lidar Data!
+2016.8.30  10:47:59.844  No Lidar Data!
+2016.8.30  10:48:52.464  Error Frame!
+2016.8.30  10:48:52.497  Error Frame!
+2016.8.30  10:48:52.561  No Lidar Data!
+2016.8.30  10:48:52.751  Error Frame!
+2016.8.30  10:48:52.955  No Lidar Data!
+2016.8.30  10:48:52.981  Error Frame!
+2016.8.30  10:48:53.079  Error Frame!
+2016.8.30  10:48:53.163  No Lidar Data!
+2016.8.30  10:48:53.369  No Lidar Data!
+2016.8.30  10:48:53.575  No Lidar Data!
+2016.8.30  10:48:53.780  No Lidar Data!
+2016.8.30  10:48:53.984  No Lidar Data!
+2016.8.30  10:48:54.188  No Lidar Data!
+2016.8.30  10:48:54.395  No Lidar Data!
+2016.8.30  10:48:54.601  No Lidar Data!
+2016.8.30  10:48:54.704  Error Frame!
+2016.8.30  10:48:54.907  No Lidar Data!
+2016.8.30  10:48:55.113  No Lidar Data!
+2016.8.30  10:48:55.318  No Lidar Data!
+2016.8.30  10:48:55.523  No Lidar Data!
+2016.8.30  10:48:55.729  No Lidar Data!
+2016.8.30  10:48:55.935  No Lidar Data!
+2016.8.30  10:48:56.142  No Lidar Data!
+2016.8.30  10:48:56.348  No Lidar Data!
+2016.8.30  10:48:56.555  No Lidar Data!
+2016.8.30  10:48:56.761  No Lidar Data!
+2016.8.30  10:48:56.961  No Lidar Data!
+2016.8.30  10:48:57.165  No Lidar Data!
+2016.8.30  10:48:57.372  No Lidar Data!
+2016.8.30  10:48:57.577  No Lidar Data!
+2016.8.30  10:48:57.778  No Lidar Data!
+2016.8.30  10:48:57.984  No Lidar Data!
+2016.8.30  10:48:58.190  No Lidar Data!
+2016.8.30  10:48:58.395  No Lidar Data!
+2016.8.30  10:48:58.602  No Lidar Data!
+2016.8.30  10:48:58.807  No Lidar Data!
+2016.8.30  10:48:59.012  No Lidar Data!
+2016.8.30  10:48:59.218  No Lidar Data!
+2016.8.30  10:48:59.423  No Lidar Data!
+2016.8.30  10:48:59.586  Error Frame!
+2016.8.30  10:48:59.834  Error Frame!
+2016.8.30  10:49:00.122  No Lidar Data!
+2016.8.30  10:49:00.200  Error Frame!
+2016.8.30  10:49:00.406  No Lidar Data!
+2016.8.30  10:49:00.490  Error Frame!
+2016.8.30  10:49:00.600  Error Frame!
+2016.8.30  10:49:00.681  Error Frame!
+2016.8.30  10:49:00.737  Error Frame!
+2016.8.30  10:49:00.780  Error Frame!
+2016.8.30  10:49:00.813  Error Frame!
+2016.8.30  10:49:00.842  Error Frame!
+2016.8.30  10:49:00.855  Error Frame!
+2016.8.30  10:49:00.879  Error Frame!
+2016.8.30  10:49:00.901  Error Frame!
+2016.8.30  10:49:00.922  Error Frame!
+2016.8.30  10:49:00.942  Error Frame!
+2016.8.30  10:49:00.961  Error Frame!
+2016.8.30  10:49:00.979  Error Frame!
+2016.8.30  10:49:00.996  Error Frame!
+2016.8.30  10:49:01.013  Error Frame!
+2016.8.30  10:49:01.030  Error Frame!
+2016.8.30  10:49:01.046  Error Frame!
+2016.8.30  10:49:01.055  Error Frame!
+2016.8.30  10:49:01.070  Error Frame!
+2016.8.30  10:49:01.085  Error Frame!
+2016.8.30  10:49:01.100  Error Frame!
+2016.8.30  10:49:01.115  Error Frame!
+2016.8.30  10:49:01.129  Error Frame!
+2016.8.30  10:49:01.143  Error Frame!
+2016.8.30  10:49:01.157  Error Frame!
+2016.8.30  10:49:01.171  Error Frame!
+2016.8.30  10:49:01.185  Error Frame!
+2016.8.30  10:49:01.199  Error Frame!
+2016.8.30  10:49:01.213  Error Frame!
+2016.8.30  10:49:01.226  Error Frame!
+2016.8.30  10:49:01.239  Error Frame!
+2016.8.30  10:49:01.250  No Lidar Data!
+2016.8.30  10:49:01.254  Error Frame!
+2016.8.30  10:49:01.265  Error Frame!
+2016.8.30  10:49:01.278  Error Frame!
+2016.8.30  10:49:01.292  Error Frame!
+2016.8.30  10:49:01.305  Error Frame!
+2016.8.30  10:49:01.317  Error Frame!
+2016.8.30  10:49:01.331  Error Frame!
+2016.8.30  10:49:01.343  Error Frame!
+2016.8.30  10:49:01.356  Error Frame!
+2016.8.30  10:49:01.368  Error Frame!
+2016.8.30  10:49:01.382  Error Frame!
+2016.8.30  10:49:01.394  Error Frame!
+2016.8.30  10:49:01.407  Error Frame!
+2016.8.30  10:49:01.420  Error Frame!
+2016.8.30  10:49:01.433  Error Frame!
+2016.8.30  10:49:01.445  Error Frame!
+2016.8.30  10:49:01.454  No Lidar Data!
+2016.8.30  10:49:01.458  Error Frame!
+2016.8.30  10:49:01.471  Error Frame!
+2016.8.30  10:49:01.483  Error Frame!
+2016.8.30  10:49:01.496  Error Frame!
+2016.8.30  10:49:01.509  Error Frame!
+2016.8.30  10:49:01.522  Error Frame!
+2016.8.30  10:49:01.535  Error Frame!
+2016.8.30  10:49:01.547  Error Frame!
+2016.8.30  10:49:01.560  Error Frame!
+2016.8.30  10:49:01.573  Error Frame!
+2016.8.30  10:49:01.586  Error Frame!
+2016.8.30  10:49:01.599  Error Frame!
+2016.8.30  10:49:01.612  Error Frame!
+2016.8.30  10:49:01.625  Error Frame!
+2016.8.30  10:49:01.638  Error Frame!
+2016.8.30  10:49:01.651  Error Frame!
+2016.8.30  10:49:01.664  Error Frame!
+2016.8.30  10:49:01.677  Error Frame!
+2016.8.30  10:49:01.689  Error Frame!
+2016.8.30  10:49:01.702  Error Frame!
+2016.8.30  10:49:01.716  Error Frame!
+2016.8.30  10:49:01.728  Error Frame!
+2016.8.30  10:49:01.742  Error Frame!
+2016.8.30  10:49:01.755  Error Frame!
+2016.8.30  10:49:01.767  Error Frame!
+2016.8.30  10:49:01.780  Error Frame!
+2016.8.30  10:49:01.793  Error Frame!
+2016.8.30  10:49:01.807  Error Frame!
+2016.8.30  10:49:01.820  Error Frame!
+2016.8.30  10:49:01.833  Error Frame!
+2016.8.30  10:49:01.846  Error Frame!
+2016.8.30  10:49:01.857  No Lidar Data!
+2016.8.30  10:49:01.861  Error Frame!
+2016.8.30  10:49:01.872  Error Frame!
+2016.8.30  10:49:01.885  Error Frame!
+2016.8.30  10:49:01.898  Error Frame!
+2016.8.30  10:49:01.911  Error Frame!
+2016.8.30  10:49:01.924  Error Frame!
+2016.8.30  10:49:01.937  Error Frame!
+2016.8.30  10:49:01.951  Error Frame!
+2016.8.30  10:49:01.964  Error Frame!
+2016.8.30  10:49:01.977  Error Frame!
+2016.8.30  10:49:01.990  Error Frame!
+2016.8.30  10:49:02.004  Error Frame!
+2016.8.30  10:49:02.017  Error Frame!
+2016.8.30  10:49:02.030  Error Frame!
+2016.8.30  10:49:02.044  Error Frame!
+2016.8.30  10:49:02.057  Error Frame!
+2016.8.30  10:49:02.071  Error Frame!
+2016.8.30  10:49:02.084  Error Frame!
+2016.8.30  10:49:02.098  Error Frame!
+2016.8.30  10:49:02.111  Error Frame!
+2016.8.30  10:49:02.125  Error Frame!
+2016.8.30  10:49:02.139  Error Frame!
+2016.8.30  10:49:02.152  Error Frame!
+2016.8.30  10:49:02.166  Error Frame!
+2016.8.30  10:49:02.179  Error Frame!
+2016.8.30  10:49:02.193  Error Frame!
+2016.8.30  10:49:02.206  Error Frame!
+2016.8.30  10:49:02.220  Error Frame!
+2016.8.30  10:49:02.234  Error Frame!
+2016.8.30  10:49:02.248  Error Frame!
+2016.8.30  10:49:02.263  Error Frame!
+2016.8.30  10:49:02.271  Error Frame!
+2016.8.30  10:49:02.284  Error Frame!
+2016.8.30  10:49:02.299  Error Frame!
+2016.8.30  10:49:02.313  Error Frame!
+2016.8.30  10:49:02.327  Error Frame!
+2016.8.30  10:49:02.341  Error Frame!
+2016.8.30  10:49:02.356  Error Frame!
+2016.8.30  10:49:02.370  Error Frame!
+2016.8.30  10:49:02.385  Error Frame!
+2016.8.30  10:49:02.399  Error Frame!
+2016.8.30  10:49:02.413  Error Frame!
+2016.8.30  10:49:02.427  Error Frame!
+2016.8.30  10:49:02.442  Error Frame!
+2016.8.30  10:49:02.457  Error Frame!
+2016.8.30  10:49:02.467  No Lidar Data!
+2016.8.30  10:49:02.472  Error Frame!
+2016.8.30  10:49:02.488  Error Frame!
+2016.8.30  10:49:02.504  Error Frame!
+2016.8.30  10:49:02.519  Error Frame!
+2016.8.30  10:49:02.535  Error Frame!
+2016.8.30  10:49:02.551  Error Frame!
+2016.8.30  10:49:02.567  Error Frame!
+2016.8.30  10:49:02.583  Error Frame!
+2016.8.30  10:49:02.598  Error Frame!
+2016.8.30  10:49:02.614  Error Frame!
+2016.8.30  10:49:02.630  Error Frame!
+2016.8.30  10:49:02.645  Error Frame!
+2016.8.30  10:49:02.661  Error Frame!
+2016.8.30  10:49:02.676  Error Frame!
+2016.8.30  10:49:02.692  Error Frame!
+2016.8.30  10:49:02.708  Error Frame!
+2016.8.30  10:49:02.724  Error Frame!
+2016.8.30  10:49:02.740  Error Frame!
+2016.8.30  10:49:02.756  Error Frame!
+2016.8.30  10:49:02.772  Error Frame!
+2016.8.30  12016.9.6  11:12:51.141  No Lidar Data!
+2016.9.6  11:12:51.346  No Lidar Data!
+2016.9.6  11:12:51.547  No Lidar Data!
+2016.9.6  11:12:51.751  No Lidar Data!
+2016.9.6  11:12:51.953  No Lidar Data!
+2016.9.6  11:12:52.156  No Lidar Data!
+2016.9.6  11:12:52.559  No Lidar Data!
+2016.9.6  11:12:52.762  No Lidar Data!
+2016.9.6  11:12:52.967  No Lidar Data!
+2016.9.6  11:12:53.170  No Lidar Data!
+2016.9.6  11:12:53.371  No Lidar Data!
+2016.9.6  11:12:53.573  No Lidar Data!
+2016.9.6  11:12:53.773  No Lidar Data!
+2016.9.6  11:13:46.891  No Lidar Data!
+2016.9.6  11:13:47.091  No Lidar Data!
+2016.9.6  11:13:47.294  No Lidar Data!
+2016.9.6  11:13:47.498  No Lidar Data!
+2016.9.6  11:13:47.704  No Lidar Data!
+2016.9.6  11:13:47.908  No Lidar Data!
+2016.9.6  11:13:48.109  No Lidar Data!
+2016.9.6  11:13:48.311  No Lidar Data!
+2016.9.6  11:13:48.515  No Lidar Data!
+2016.9.6  11:13:48.720  No Lidar Data!
+2016.9.6  11:13:48.925  No Lidar Data!
+2016.9.6  11:13:49.127  No Lidar Data!
+2016.9.6  11:13:49.328  No Lidar Data!
+2016.9.6  11:13:49.532  No Lidar Data!
+2016.9.6  11:13:49.737  No Lidar Data!
+2016.9.6  11:13:49.940  No Lidar Data!
+2016.9.6  11:13:50.144  No Lidar Data!
+2016.9.6  11:13:50.346  No Lidar Data!
+2016.9.6  11:13:50.549  No Lidar Data!
+2016.9.6  11:13:50.752  No Lidar Data!
+2016.9.6  11:13:50.957  No Lidar Data!
+2016.9.6  11:13:51.161  No Lidar Data!
+2016.9.6  11:13:51.367  No Lidar Data!
+2016.9.6  11:13:51.567  No Lidar Data!
+2016.9.6  11:13:51.568  No Lidar Data!
+2016.9.6  11:13:51.769  No Lidar Data!
+2016.9.6  11:13:51.973  No Lidar Data!
+2016.9.6  11:13:52.176  No Lidar Data!
+2016.9.6  11:13:52.381  No Lidar Data!
+2016.9.6  11:13:52.585  No Lidar Data!
+2016.9.6  11:13:52.787  No Lidar Data!
+2016.9.6  11:13:52.992  No Lidar Data!
+2016.9.6  11:13:53.198  No Lidar Data!
+2016.9.6  11:13:53.399  No Lidar Data!
+2016.9.6  11:13:53.602  No Lidar Data!
+2016.9.6  11:13:53.806  No Lidar Data!
+2016.9.6  11:13:54.011  No Lidar Data!
+2016.9.6  11:13:54.216  No Lidar Data!
+2016.9.6  11:13:54.423  No Lidar Data!
+2016.9.6  11:13:54.627  No Lidar Data!
+2016.9.6  11:13:54.832  No Lidar Data!
+2016.9.6  11:13:55.036  No Lidar Data!
+2016.9.6  11:13:55.241  No Lidar Data!
+2016.9.6  11:13:55.444  No Lidar Data!
+2016.9.6  11:13:55.648  No Lidar Data!
+2016.9.6  11:13:55.852  No Lidar Data!
+2016.9.6  11:13:56.057  No Lidar Data!
+2016.9.6  11:13:56.263  No Lidar Data!
+2016.9.6  11:13:57.297  No Lidar Data!
+2016.9.6  11:13:57.499  No Lidar Data!
+2016.9.6  11:13:57.914  No Lidar Data!
+2016.9.6  11:13:58.327  No Lidar Data!
+2016.9.6  11:13:58.730  No Lidar Data!
+2016.9.6  11:13:58.933  No Lidar Data!
+2016.9.6  11:13:59.134  No Lidar Data!
+2016.9.6  11:13:59.337  No Lidar Data!
+2016.9.6  11:13:59.539  No Lidar Data!
+2016.9.6  11:13:59.744  No Lidar Data!
+2016.9.6  11:14:11.797  No Lidar Data!
+2016.9.6  11:14:12.002  No Lidar Data!
+2016.9.6  11:14:12.205  No Lidar Data!
+2016.9.6  11:14:12.406  No Lidar Data!
+2016.9.6  11:14:12.607  No Lidar Data!
+2016.9.6  11:14:12.807  No Lidar Data!
+2016.9.6  11:14:13.011  No Lidar Data!
+2016.9.6  11:14:13.215  No Lidar Data!
+2016.9.6  11:14:13.418  No Lidar Data!
+2016.9.6  11:14:13.620  No Lidar Data!
+2016.9.6  11:14:13.824  No Lidar Data!
+2016.9.6  11:14:14.029  No Lidar Data!
+2016.9.6  11:14:14.229  No Lidar Data!
+2016.9.6  11:14:14.434  No Lidar Data!
+2016.9.6  11:14:14.638  No Lidar Data!
+2016.9.6  11:14:14.843  No Lidar Data!
+2016.9.6  11:14:15.050  No Lidar Data!
+2016.9.6  11:14:15.250  No Lidar Data!
+2016.9.6  11:14:15.456  No Lidar Data!
+2016.9.6  11:14:15.661  No Lidar Data!
+2016.9.6  11:14:15.866  No Lidar Data!
+2016.9.6  11:14:16.070  No Lidar Data!
+2016.9.6  11:14:16.271  No Lidar Data!
+2016.9.6  11:14:16.473  No Lidar Data!
+2016.9.6  11:14:16.676  No Lidar Data!
+2016.9.6  11:14:16.877  No Lidar Data!
+2016.9.6  11:14:17.077  No Lidar Data!
+2016.9.6  11:14:17.282  No Lidar Data!
+2016.9.6  11:14:17.487  No Lidar Data!
+2016.9.6  11:14:17.690  No Lidar Data!
+2016.9.6  11:14:17.896  No Lidar Data!
+2016.9.6  11:14:18.172  No Lidar Data!
+2016.9.6  11:14:18.375  No Lidar Data!
+2016.9.6  11:14:18.581  No Lidar Data!
+22016.9.6  15:27:43.634  No Lidar Data!
+2016.9.6  15:27:44.558  No Lidar Data!
+2016.9.6  15:27:44.965  No Lidar Data!
+2016.9.6  15:27:45.381  No Lidar Data!
+2016.9.6  15:27:45.791  No Lidar Data!
+2016.9.6  15:27:46.204  No Lidar Data!
+2016.9.6  15:27:46.620  No Lidar Data!
+2016.9.6  15:27:47.029  No Lidar Data!
+2016.9.6  15:27:47.635  No Lidar Data!
+2016.9.6  15:27:47.838  No Lidar Data!
+2016.9.6  15:27:48.043  No Lidar Data!
+2016.9.6  15:27:52.624  No Lidar Data!
+2016.9.6  15:27:52.831  No Lidar Data!
+2016.9.6  15:27:53.039  No Lidar Data!
+2016.9.6  15:27:54.794  No Lidar Data!
+2016.9.6  15:27:55.001  No Lidar Data!
+2016.9.6  15:27:55.208  No Lidar Data!
+2016.9.6  15:27:55.414  No Lidar Data!
+2016.9.6  15:27:55.620  No Lidar Data!
+2016.9.6  15:27:55.827  No Lidar Data!
+2016.9.6  15:27:56.032  No Lidar Data!
+2016.9.6  15:27:56.238  No Lidar Data!
+2016.9.6  15:27:56.443  No Lidar Data!
+2016.9.6  15:27:56.647  No Lidar Data!
+2016.9.6  15:27:56.853  No Lidar Data!
+2016.9.6  15:27:57.055  No Lidar Data!
+2016.9.6  15:27:57.263  No Lidar Data!
+2016.9.6  15:27:57.464  No Lidar Data!
+2016.9.6  15:27:57.669  No Lidar Data!
+2016.9.6  15:27:57.874  No Lidar Data!
+2016.9.6  15:27:58.077  No Lidar Data!
+2016.9.6  15:27:58.279  No Lidar Data!
+2016.9.6  15:27:58.485  No Lidar Data!
+2016.9.6  15:27:58.692  No Lidar Data!
+2016.9.6  15:27:58.900  No Lidar Data!
+2016.9.6  15:27:59.105  No Lidar Data!
+2016.9.6  15:27:59.312  No Lidar Data!
+2016.9.6  15:27:59.521  No Lidar Data!
+2016.9.6  15:27:59.944  No Lidar Data!
+2016.9.6  15:28:01.589  No Lidar Data!
+2016.9.6  15:28:02.410  No Lidar Data!
+2016.9.6  15:28:02.611  No Lidar Data!
+2016.9.6  15:28:02.812  No Lidar Data!
+2016.9.6  15:28:03.018  No Lidar Data!
+2016.9.6  15:28:05.061  No Lidar Data!
+2016.9.6  15:28:05.256  No Lidar Data!
+2016.9.6  15:28:05.268  No Lidar Data!
+2016.9.6  15:28:05.473  No Lidar Data!
+2016.9.6  15:28:05.679  No Lidar Data!
+2016.9.6  15:28:05.886  No Lidar Data!
+2016.9.6  15:28:06.093  No Lidar Data!
+2016.9.6  15:28:06.298  No Lidar Data!
+2016.9.6  15:28:06.506  No Lidar Data!
+2016.9.6  15:28:06.713  No Lidar Data!
+2016.9.6  15:28:06.919  No Lidar Data!
+2016.9.6  15:28:07.124  No Lidar Data!
+2016.9.6  15:28:07.331  No Lidar Data!
+2016.9.6  15:28:07.540  No Lidar Data!
+2016.9.6  15:28:07.747  No Lidar Data!
+2016.9.6  15:28:07.948  No Lidar Data!
+2016.9.6  15:28:08.154  No Lidar Data!
+2016.9.6  15:28:08.361  No Lidar Data!
+2016.9.6  15:28:08.568  No Lidar Data!
+2016.9.6  15:28:08.775  No Lidar Data!
+2016.9.6  15:28:08.978  No Lidar Data!
+2016.9.6  15:28:09.186  No Lidar Data!
+2016.9.6  15:28:09.392  No Lidar Data!
+2016.9.6  15:28:09.600  No Lidar Data!
+2016.9.6  15:28:09.808  No Lidar Data!
+2016.9.6  15:31:01.512  No Lidar Data!
+2016.9.6  15:31:01.720  No Lidar Data!
+2016.9.6  15:31:01.925  No Lidar Data!
+2016.9.6  15:31:02.130  No Lidar Data!
+2016.9.6  15:31:02.336  No Lidar Data!
+2016.9.6  15:31:02.539  No Lidar Data!
+2016.9.6  15:31:02.749  No Lidar Data!
+2016.9.6  15:31:02.951  No Lidar Data!
+2016.9.6  15:31:03.155  No Lidar Data!
+2016.9.6  15:31:03.360  No Lidar Data!
+2016.9.6  15:31:03.565  No Lidar Data!
+2016.9.6  15:31:03.769  No Lidar Data!
+2016.9.6  15:31:03.974  No Lidar Data!
+2016.9.6  15:31:04.179  No Lidar Data!
+2016.9.6  15:31:04.384  No Lidar Data!
+2016.9.6  15:31:04.590  No Lidar Data!
+2016.9.6  15:31:04.795  No Lidar Data!
+2016.9.6  15:31:05.001  No Lidar Data!
+2016.9.6  15:31:05.206  No Lidar Data!
+2016.9.6  15:31:05.412  No Lidar Data!
+2016.9.6  15:31:05.619  No Lidar Data!
+2016.9.6  15:31:05.826  No Lidar Data!
+2016.9.6  15:31:06.031  No Lidar Data!
+2016.9.6  15:31:06.236  No Lidar Data!
+2016.9.6  15:31:06.441  No Lidar Data!
+2016.9.6  15:31:06.646  No Lidar Data!
+2016.9.6  15:31:06.852  No Lidar Data!
+2016.9.6  15:31:07.059  No Lidar Data!
+2016.9.6  15:31:07.263  No Lidar Data!
+2016.9.6  15:31:07.469  No Lidar Data!
+2016.9.6  15:31:07.671  No Lidar Data!
+2016.9.6  15:31:07.876  No Lidar Data!
+2016.9.6  15:31:08.077  No Lidar Data!
+2016.9.6  15:31:08.279  No Lidar Data!
+2016.9.6  15:31:08.481  No Lidar Data!
+2016.9.6  15:31:08.685  No Lidar Data!
+22016.9.6  15:41:02.152  No Lidar Data!
+2016.9.6  15:41:02.362  No Lidar Data!
+2016.9.6  15:41:02.572  No Lidar Data!
+2016.9.6  15:41:02.781  No Lidar Data!
+2016.9.6  15:41:02.990  No Lidar Data!
+2016.9.6  15:41:03.200  No Lidar Data!
+2016.9.6  15:41:03.411  No Lidar Data!
+2016.9.6  15:41:03.620  No Lidar Data!
+2016.9.6  15:41:03.829  No Lidar Data!
+2016.9.6  15:41:04.037  No Lidar Data!
+2016.9.6  15:41:04.243  No Lidar Data!
+2016.9.6  15:41:04.450  No Lidar Data!
+2016.9.6  15:41:04.661  No Lidar Data!
+2016.9.6  15:41:04.869  No Lidar Data!
+2016.9.6  15:41:05.081  No Lidar Data!
+2016.9.6  15:41:05.293  No Lidar Data!
+2016.9.6  15:41:05.505  No Lidar Data!
+2016.9.6  15:41:05.716  No Lidar Data!
+2016.9.6  15:41:05.925  No Lidar Data!
+2016.9.6  15:41:06.131  No Lidar Data!
+2016.9.6  15:41:06.342  No Lidar Data!
+2016.9.6  15:41:06.550  No Lidar Data!
+2016.9.6  15:41:06.758  No Lidar Data!
+2016.9.6  15:41:06.964  No Lidar Data!
+2016.9.6  15:41:07.167  No Lidar Data!
+2016.9.6  15:41:07.371  No Lidar Data!
+2016.9.6  15:41:07.582  No Lidar Data!
+2016.9.6  15:41:07.793  No Lidar Data!
+2016.9.6  15:41:08.000  No Lidar Data!
+2016.9.6  15:41:09.895  No Lidar Data!
+2016.9.6  15:41:10.910  No Lidar Data!
+2016.9.6  15:41:12.124  No Lidar Data!
+2016.9.6  15:41:32.670  No Lidar Data!
+2016.9.6  15:41:32.887  No Lidar Data!
+2016.9.6  15:41:33.095  No Lidar Data!
+2016.9.6  15:41:33.302  No Lidar Data!
+2016.9.6  15:41:33.505  No Lidar Data!
+2016.9.6  15:41:33.710  No Lidar Data!
+2016.9.6  15:41:33.921  No Lidar Data!
+2016.9.6  15:41:34.127  No Lidar Data!
+2016.9.6  15:41:34.337  No Lidar Data!
+2016.9.6  15:41:34.544  No Lidar Data!
+2016.9.6  15:41:34.753  No Lidar Data!
+2016.9.6  15:41:34.961  No Lidar Data!
+2016.9.6  15:41:35.167  No Lidar Data!
+2016.9.6  15:41:35.375  No Lidar Data!
+2016.9.6  15:41:35.584  No Lidar Data!
+2016.9.6  15:41:35.795  No Lidar Data!
+2016.9.6  15:41:36.005  No Lidar Data!
+2016.9.6  15:41:36.213  No Lidar Data!
+2016.9.6  15:41:36.423  No Lidar Data!
+2016.9.6  15:41:36.629  No Lidar Data!
+2016.9.6  15:41:36.835  No Lidar Data!
+2016.9.6  15:41:37.045  No Lidar Data!
+2016.9.6  15:41:37.253  No Lidar Data!
+2016.9.6  15:41:37.461  No Lidar Data!
+2016.9.6  15:41:37.669  No Lidar Data!
+2016.9.6  15:41:37.876  No Lidar Data!
+2016.9.6  15:41:38.084  No Lidar Data!
+2016.9.6  15:41:38.292  No Lidar Data!
+2016.9.6  15:41:38.498  No Lidar Data!
+2016.9.6  15:41:39.106  No Lidar Data!
+2016.9.6  15:41:39.316  No Lidar Data!
+2016.9.6  15:41:39.752  No Lidar Data!
+2016.9.6  15:41:40.160  No Lidar Data!
+2016.9.6  15:41:41.177  No Lidar Data!
+2016.9.6  15:41:41.993  No Lidar Data!
+2016.9.6  15:41:48.737  No Lidar Data!
+2016.9.6  15:41:48.951  No Lidar Data!
+2016.9.6  15:41:49.379  No Lidar Data!
+2016.9.6  15:41:49.584  No Lidar Data!
+2016.9.6  15:41:49.792  No Lidar Data!
+2016.9.6  15:41:50.003  No Lidar Data!
+2016.9.6  15:41:50.212  No Lidar Data!
+2016.9.6  15:41:50.421  No Lidar Data!
+2016.9.6  15:41:50.629  No Lidar Data!
+2016.9.6  15:41:50.838  No Lidar Data!
+2016.9.6  15:41:51.044  No Lidar Data!
+2016.9.6  15:41:51.249  No Lidar Data!
+2016.9.6  15:41:51.457  No Lidar Data!
+2016.9.6  15:41:51.667  No Lidar Data!
+2016.9.6  15:41:51.873  No Lidar Data!
+2016.9.6  15:41:52.081  No Lidar Data!
+2016.9.6  15:41:52.292  No Lidar Data!
+2016.9.6  15:41:52.501  No Lidar Data!
+2016.9.6  15:41:52.712  No Lidar Data!
+2016.9.6  15:41:52.922  No Lidar Data!
+2016.9.6  15:41:53.128  No Lidar Data!
+2016.9.6  15:41:53.335  No Lidar Data!
+2016.9.6  15:41:53.542  No Lidar Data!
+2016.9.6  15:41:53.754  No Lidar Data!
+2016.9.6  15:41:53.962  No Lidar Data!
+2016.9.6  15:41:54.170  No Lidar Data!
+2016.9.6  15:41:54.381  No Lidar Data!
+2016.9.6  15:41:54.591  No Lidar Data!
+2016.9.6  15:41:54.795  No Lidar Data!
+2016.9.6  15:41:55.003  No Lidar Data!
+2016.9.6  15:41:55.211  No Lidar Data!
+2016.9.6  15:41:55.488  No Lidar Data!
+2016.9.6  15:41:55.694  No Lidar Data!
+2016.9.6  15:41:55.977  No Lidar Data!
+2016.9.6  15:43:04.191  No Lidar Data!
+2016.9.6  15:43:04.709  No Lidar Data!
+2016.9.6  15:43:05.733  No Lidar Data!
+2016.9.6  15:43:05.942  No Lidar Data!
+22016.9.6  16:21:14.857  No Lidar Data!
+2016.9.6  16:21:15.064  No Lidar Data!
+2016.9.6  16:21:15.270  No Lidar Data!
+2016.9.6  16:21:15.476  No Lidar Data!
+2016.9.6  16:21:15.681  No Lidar Data!
+2016.9.6  16:21:15.883  No Lidar Data!
+2016.9.6  16:21:16.087  No Lidar Data!
+2016.9.6  16:21:16.287  No Lidar Data!
+2016.9.6  16:21:16.490  No Lidar Data!
+2016.9.6  16:21:16.695  No Lidar Data!
+2016.9.6  16:21:16.899  No Lidar Data!
+2016.9.6  16:21:17.103  No Lidar Data!
+2016.9.6  16:21:17.307  No Lidar Data!
+2016.9.6  16:21:17.514  No Lidar Data!
+2016.9.6  16:21:17.718  No Lidar Data!
+2016.9.6  16:21:17.921  No Lidar Data!
+2016.9.6  16:21:18.128  No Lidar Data!
+2016.9.6  16:21:18.331  No Lidar Data!
+2016.9.6  16:21:18.537  No Lidar Data!
+2016.9.6  16:21:18.742  No Lidar Data!
+2016.9.6  16:21:18.947  No Lidar Data!
+2016.9.6  16:21:19.153  No Lidar Data!
+2016.9.6  16:21:19.356  No Lidar Data!
+2016.9.6  16:21:19.558  No Lidar Data!
+2016.9.6  16:21:19.761  No Lidar Data!
+2016.9.6  16:21:19.969  No Lidar Data!
+2016.9.6  16:21:20.172  No Lidar Data!
+2016.9.6  16:21:20.375  No Lidar Data!
+2016.9.6  16:21:20.581  No Lidar Data!
+2016.9.6  16:21:20.789  No Lidar Data!
+2016.9.6  16:21:20.998  No Lidar Data!
+2016.9.6  16:21:21.204  No Lidar Data!
+2016.9.6  16:21:21.408  No Lidar Data!
+2016.9.6  16:21:21.609  No Lidar Data!
+2016.9.6  16:21:21.815  No Lidar Data!
+2016.9.6  16:21:22.023  No Lidar Data!
+2016.9.6  16:21:22.231  No Lidar Data!
+2016.9.6  16:21:22.434  No Lidar Data!
+2016.9.6  16:21:22.641  No Lidar Data!
+2016.9.6  16:21:22.850  No Lidar Data!
+2016.9.6  16:21:23.055  No Lidar Data!
+2016.9.6  16:21:23.260  No Lidar Data!
+2016.9.6  16:21:23.467  No Lidar Data!
+2016.9.6  16:21:23.673  No Lidar Data!
+2016.9.6  16:21:23.881  No Lidar Data!
+2016.9.6  16:21:24.087  No Lidar Data!
+2016.9.6  16:21:24.293  No Lidar Data!
+2016.9.6  16:21:24.499  No Lidar Data!
+2016.9.6  16:21:26.496  No Lidar Data!
+2016.9.6  16:21:26.698  No Lidar Data!
+2016.9.6  16:21:26.900  No Lidar Data!
+2016.9.6  16:21:27.108  No Lidar Data!
+2016.9.6  16:21:27.314  No Lidar Data!
+2016.9.6  16:21:27.520  No Lidar Data!
+2016.9.6  16:21:27.724  No Lidar Data!
+2016.9.6  16:21:27.931  No Lidar Data!
+2016.9.6  16:21:28.137  No Lidar Data!
+2016.9.6  16:21:28.344  No Lidar Data!
+2016.9.6  16:21:28.554  No Lidar Data!
+2016.9.6  16:21:28.758  No Lidar Data!
+2016.9.6  16:21:28.962  No Lidar Data!
+2016.9.6  16:21:29.169  No Lidar Data!
+2016.9.6  16:21:29.374  No Lidar Data!
+2016.9.6  16:21:29.576  No Lidar Data!
+2016.9.6  16:21:29.781  No Lidar Data!
+2016.9.6  16:21:29.986  No Lidar Data!
+2016.9.6  16:21:30.193  No Lidar Data!
+2016.9.6  16:21:30.398  No Lidar Data!
+2016.9.6  16:21:30.605  No Lidar Data!
+2016.9.6  16:21:30.812  No Lidar Data!
+2016.9.6  16:21:31.018  No Lidar Data!
+2016.9.6  16:21:31.226  No Lidar Data!
+2016.9.6  16:21:31.430  No Lidar Data!
+2016.9.6  16:21:31.636  No Lidar Data!
+2016.9.6  16:21:31.842  No Lidar Data!
+2016.9.6  16:21:32.044  No Lidar Data!
+2016.9.6  16:21:32.244  No Lidar Data!
+2016.9.6  16:21:32.449  No Lidar Data!
+2016.9.6  16:21:32.652  No Lidar Data!
+2016.9.6  16:21:32.859  No Lidar Data!
+2016.9.6  16:21:33.068  No Lidar Data!
+2016.9.6  16:21:33.274  No Lidar Data!
+2016.9.6  16:21:33.480  No Lidar Data!
+2016.9.6  16:21:33.688  No Lidar Data!
+2016.9.6  16:21:33.895  No Lidar Data!
+2016.9.6  16:21:34.102  No Lidar Data!
+2016.9.6  16:21:34.306  No Lidar Data!
+2016.9.6  16:21:34.512  No Lidar Data!
+2016.9.6  16:21:34.718  No Lidar Data!
+2016.9.6  16:21:34.927  No Lidar Data!
+2016.9.6  16:21:35.130  No Lidar Data!
+2016.9.6  16:21:35.335  No Lidar Data!
+2016.9.6  16:21:35.542  No Lidar Data!
+2016.9.6  16:21:35.747  No Lidar Data!
+2016.9.6  16:21:35.953  No Lidar Data!
+2016.9.6  16:21:36.157  No Lidar Data!
+2016.9.6  16:21:36.363  No Lidar Data!
+2016.9.6  16:21:36.570  No Lidar Data!
+2016.9.6  16:21:36.776  No Lidar Data!
+2016.9.6  16:21:36.979  No Lidar Data!
+2016.9.6  16:21:37.187  No Lidar Data!
+2016.9.6  16:21:37.390  No Lidar Data!
+2016.9.6  16:21:37.591  No Lidar Data!
+2016.9.6  16:21:37.799  No Lidar Data!
+2016.9.6  16:21:38.008  No Lidar Data!
+22016.9.6  16:22:54.746  No Lidar Data!
+2016.9.6  16:22:54.952  No Lidar Data!
+2016.9.6  16:22:55.156  No Lidar Data!
+2016.9.6  16:22:55.361  No Lidar Data!
+2016.9.6  16:22:55.567  No Lidar Data!
+2016.9.6  16:22:55.771  No Lidar Data!
+2016.9.6  16:22:55.976  No Lidar Data!
+2016.9.6  16:22:56.182  No Lidar Data!
+2016.9.6  16:22:56.383  No Lidar Data!
+2016.9.6  16:22:56.587  No Lidar Data!
+2016.9.6  16:22:56.788  No Lidar Data!
+2016.9.6  16:22:56.989  No Lidar Data!
+2016.9.6  16:22:57.195  No Lidar Data!
+2016.9.6  16:22:57.401  No Lidar Data!
+2016.9.6  16:22:57.607  No Lidar Data!
+2016.9.6  16:22:57.812  No Lidar Data!
+2016.9.6  16:22:58.019  No Lidar Data!
+2016.9.6  16:22:58.224  No Lidar Data!
+2016.9.6  16:22:58.430  No Lidar Data!
+2016.9.6  16:22:58.635  No Lidar Data!
+2016.9.6  16:22:58.840  No Lidar Data!
+2016.9.6  16:22:59.045  No Lidar Data!
+2016.9.6  16:22:59.250  No Lidar Data!
+2016.9.6  16:22:59.454  No Lidar Data!
+2016.9.6  16:22:59.659  No Lidar Data!
+2016.9.6  16:22:59.867  No Lidar Data!
+2016.9.6  16:23:00.071  No Lidar Data!
+2016.9.6  16:23:00.278  No Lidar Data!
+2016.9.6  16:23:00.484  No Lidar Data!
+2016.9.6  16:23:00.690  No Lidar Data!
+2016.9.6  16:23:00.897  No Lidar Data!
+2016.9.6  16:23:01.102  No Lidar Data!
+2016.9.6  16:23:01.307  No Lidar Data!
+2016.9.6  16:23:01.510  No Lidar Data!
+2016.9.6  16:23:01.713  No Lidar Data!
+2016.9.6  16:23:01.921  No Lidar Data!
+2016.9.6  16:23:01.959  No Lidar Data!
+2016.9.6  16:23:02.159  No Lidar Data!
+2016.9.6  16:23:02.366  No Lidar Data!
+2016.9.6  16:23:02.569  No Lidar Data!
+2016.9.6  16:23:12.389  No Lidar Data!
+2016.9.6  16:23:12.595  No Lidar Data!
+2016.9.6  16:23:12.797  No Lidar Data!
+2016.9.6  16:23:13.001  No Lidar Data!
+2016.9.6  16:23:13.207  No Lidar Data!
+2016.9.6  16:23:13.412  No Lidar Data!
+2016.9.6  16:23:13.617  No Lidar Data!
+2016.9.6  16:23:13.822  No Lidar Data!
+2016.9.6  16:23:14.027  No Lidar Data!
+2016.9.6  16:23:14.232  No Lidar Data!
+2016.9.6  16:23:14.437  No Lidar Data!
+2016.9.6  16:23:14.642  No Lidar Data!
+2016.9.6  16:23:14.846  No Lidar Data!
+2016.9.6  16:23:15.051  No Lidar Data!
+2016.9.6  16:23:15.254  No Lidar Data!
+2016.9.6  16:23:15.457  No Lidar Data!
+2016.9.6  16:23:15.661  No Lidar Data!
+2016.9.6  16:23:15.866  No Lidar Data!
+2016.9.6  16:23:16.072  No Lidar Data!
+2016.9.6  16:23:16.273  No Lidar Data!
+2016.9.6  16:23:16.475  No Lidar Data!
+2016.9.6  16:23:19.113  No Lidar Data!
+2016.9.6  16:23:19.318  No Lidar Data!
+2016.9.6  16:23:19.524  No Lidar Data!
+2016.9.6  16:23:19.728  No Lidar Data!
+2016.9.6  16:23:19.933  No Lidar Data!
+2016.9.6  16:23:20.138  No Lidar Data!
+2016.9.6  16:23:20.343  No Lidar Data!
+2016.9.6  16:23:20.546  No Lidar Data!
+2016.9.6  16:23:23.395  No Lidar Data!
+2016.9.6  16:23:23.596  No Lidar Data!
+2016.9.6  16:23:23.801  No Lidar Data!
+2016.9.6  16:23:24.006  No Lidar Data!
+2016.9.6  16:23:24.211  No Lidar Data!
+2016.9.6  16:23:26.549  No Lidar Data!
+2016.9.6  16:23:26.753  No Lidar Data!
+2016.9.6  16:23:26.957  No Lidar Data!
+2016.9.6  16:23:27.163  No Lidar Data!
+2016.9.6  16:23:27.365  No Lidar Data!
+2016.9.6  16:23:27.568  No Lidar Data!
+2016.9.6  16:23:27.771  No Lidar Data!
+2016.9.6  16:23:27.977  No Lidar Data!
+2016.9.6  16:23:28.182  No Lidar Data!
+2016.9.6  16:23:28.387  No Lidar Data!
+2016.9.6  16:23:28.592  No Lidar Data!
+2016.9.6  16:23:31.765  No Lidar Data!
+2016.9.6  16:23:31.970  No Lidar Data!
+2016.9.6  16:23:32.172  No Lidar Data!
+2016.9.6  16:23:32.378  No Lidar Data!
+2016.9.6  16:23:32.581  No Lidar Data!
+2016.9.6  16:23:32.786  No Lidar Data!
+2016.9.6  16:23:32.992  No Lidar Data!
+2016.9.6  16:23:33.197  No Lidar Data!
+2016.9.6  16:23:37.164  No Lidar Data!
+2016.9.6  16:23:37.369  No Lidar Data!
+2016.9.6  16:23:37.575  No Lidar Data!
+2016.9.6  16:23:37.782  No Lidar Data!
+2016.9.6  16:23:41.884  No Lidar Data!
+2016.9.6  16:23:42.088  No Lidar Data!
+2016.9.6  16:23:42.292  No Lidar Data!
+2016.9.6  16:23:42.498  No Lidar Data!
+2016.9.6  16:23:42.702  No Lidar Data!
+2016.9.6  16:23:42.907  No Lidar Data!
+2016.9.6  16:23:43.110  No Lidar Data!
+2016.9.6  16:23:43.315  No Lidar Data!
+2016.9.6  16:23:43.519  No Lidar Data!
+2016.9.6  16:23:48.898  No Lidar Data!
+2016.9.6  16:23:49.104  No Lidar Data!
+2016.9.6  16:23:49.308  No Lidar Data!
+2016.9.6  16:23:49.512  No Lidar Data!
+2016.9.6  16:23:49.717  No Lidar Data!
+2016.9.6  16:23:49.919  No Lidar Data!
+2016.9.6  16:23:50.119  No Lidar Data!
+2016.9.6  16:23:53.239  No Lidar Data!
+2016.9.6  16:23:53.444  No Lidar Data!
+2016.9.6  16:23:53.649  No Lidar Data!
+2016.9.6  16:23:53.855  No Lidar Data!
+2016.9.6  16:23:54.060  No Lidar Data!
+2016.9.6  16:23:54.265  No Lidar Data!
+2016.9.6  16:23:54.471  No Lidar Data!
+2016.9.6  16:23:54.676  No Lidar Data!
+2016.9.6  16:23:57.619  No Lidar Data!
+2016.9.6  16:23:57.823  No Lidar Data!
+2016.9.6  16:23:58.030  No Lidar Data!
+2016.9.6  16:23:58.235  No Lidar Data!
+2016.9.6  16:23:58.439  No Lidar Data!
+2016.9.6  16:23:58.644  No Lidar Data!
+2016.9.6  16:23:58.849  No Lidar Data!
+2016.9.6  16:23:59.055  No Lidar Data!
+2016.9.6  16:23:59.261  No Lidar Data!
+2016.9.6  16:23:59.464  No Lidar Data!
+2016.9.6  16:23:59.670  No Lidar Data!
+2016.9.6  16:23:59.875  No Lidar Data!
+2016.9.6  16:24:00.082  No Lidar Data!
+2016.9.6  16:24:00.288  No Lidar Data!
+2016.9.6  16:24:00.490  No Lidar Data!
+2016.9.6  16:24:00.691  No Lidar Data!
+2016.9.6  16:24:00.896  No Lidar Data!
+2016.9.6  16:24:01.100  No Lidar Data!
+2016.9.6  16:24:01.306  No Lidar Data!
+2016.9.6  16:25:14.287  No Lidar Data!
+2016.9.6  16:25:14.488  No Lidar Data!
+2016.9.6  16:25:14.693  No Lidar Data!
+2016.9.6  16:25:14.895  No Lidar Data!
+2016.9.6  16:25:15.096  No Lidar Data!
+2016.9.6  16:25:15.300  No Lidar Data!
+2016.9.6  16:25:15.503  No Lidar Data!
+2016.9.6  16:25:15.708  No Lidar Data!
+2016.9.6  16:25:15.912  No Lidar Data!
+2016.9.6  16:25:16.116  No Lidar Data!
+2016.9.6  16:25:16.321  No Lidar Data!
+2016.9.6  16:25:16.526  No Lidar Data!
+2016.9.6  16:25:16.731  No Lidar Data!
+2016.9.6  16:25:16.937  No Lidar Data!
+2016.9.6  16:25:17.143  No Lidar Data!
+2016.9.6  16:25:17.348  No Lidar Data!
+2016.9.6  16:25:17.553  No Lidar Data!
+2016.9.6  16:25:17.758  No Lidar Data!
+2016.9.6  16:25:17.964  No Lidar Data!
+2016.9.6  16:25:18.168  No Lidar Data!
+2016.9.6  16:25:18.373  No Lidar Data!
+2016.9.6  16:25:18.579  No Lidar Data!
+2016.9.6  16:25:18.783  No Lidar Data!
+2016.9.6  16:25:18.986  No Lidar Data!
+2016.9.6  16:25:19.191  No Lidar Data!
+2016.9.6  16:25:19.397  No Lidar Data!
+2016.9.6  16:25:19.599  No Lidar Data!
+2016.9.6  16:25:19.805  No Lidar Data!
+2016.9.6  16:25:20.011  No Lidar Data!
+2016.9.6  16:25:20.212  No Lidar Data!
+2016.9.6  16:25:20.413  No Lidar Data!
+2016.9.6  16:25:20.617  No Lidar Data!
+2016.9.6  16:25:20.819  No Lidar Data!
+2016.9.6  16:25:21.024  No Lidar Data!
+2016.9.6  16:25:21.229  No Lidar Data!
+2016.9.6  16:25:21.433  No Lidar Data!
+2016.9.6  16:25:21.638  No Lidar Data!
+2016.9.6  16:25:21.840  No Lidar Data!
+2016.9.6  16:25:22.044  No Lidar Data!
+2016.9.6  16:25:22.248  No Lidar Data!
+2016.9.6  16:25:22.453  No Lidar Data!
+2016.9.6  16:25:22.659  No Lidar Data!
+2016.9.6  16:25:22.866  No Lidar Data!
+2016.9.6  16:25:23.072  No Lidar Data!
+2016.9.6  16:25:23.277  No Lidar Data!
+2016.9.6  16:25:23.482  No Lidar Data!
+2016.9.6  16:25:23.688  No Lidar Data!
+2016.9.6  16:25:23.890  No Lidar Data!
+2016.9.6  16:25:24.093  No Lidar Data!
+2016.9.6  16:25:24.299  No Lidar Data!
+2016.9.6  16:25:24.503  No Lidar Data!
+2016.9.6  16:25:24.708  No Lidar Data!
+2016.9.6  16:25:24.914  No Lidar Data!
+2016.9.6  16:25:25.119  No Lidar Data!
+2016.9.6  16:25:25.325  No Lidar Data!
+2016.9.6  16:25:25.527  No Lidar Data!
+2016.9.6  16:25:25.731  No Lidar Data!
+2016.9.6  16:25:25.935  No Lidar Data!
+2016.9.6  16:25:26.138  No Lidar Data!
+2016.9.6  16:25:26.343  No Lidar Data!
+2016.9.6  16:25:26.550  No Lidar Data!
+2016.9.6  16:25:26.755  No Lidar Data!
+2016.9.6  16:25:26.961  No Lidar Data!
+2016.9.6  16:25:27.164  No Lidar Data!
+2016.9.6  16:25:27.369  No Lidar Data!
+2016.9.6  16:25:27.576  No Lidar Data!
+2016.9.6  16:25:27.782  No Lidar Data!
+2016.9.6  16:25:27.988  No Lidar Data!
+2016.9.6  16:25:28.191  No Lidar Data!
+2016.9.6  16:25:28.396  No Lidar Data!
+202017.3.9  20:13:19.018  No Lidar Data!
+2017.3.9  20:13:19.218  No Lidar Data!
+2017.3.9  20:13:19.529  No Lidar Data!
+2017.3.9  20:13:19.729  No Lidar Data!
+2017.3.9  20:13:19.929  No Lidar Data!
+2017.3.9  20:13:20.129  No Lidar Data!
+2017.3.9  20:13:20.329  No Lidar Data!
+2017.3.9  20:13:20.529  No Lidar Data!
+2017.3.9  20:13:20.729  No Lidar Data!
+2017.3.9  20:13:20.929  No Lidar Data!
+2017.3.9  20:13:21.129  No Lidar Data!
+2017.3.9  20:13:21.329  No Lidar Data!
+2017.3.9  20:13:21.529  No Lidar Data!
+2017.3.9  20:13:21.730  No Lidar Data!
+2017.3.9  20:13:21.930  No Lidar Data!
+2017.3.9  20:13:22.130  No Lidar Data!
+2017.3.9  20:13:22.330  No Lidar Data!
+2017.3.9  20:13:22.530  No Lidar Data!
+2017.3.9  20:13:22.730  No Lidar Data!
+2017.3.9  20:13:22.930  No Lidar Data!
+2017.3.9  20:13:23.130  No Lidar Data!
+2017.3.9  20:13:23.330  No Lidar Data!
+2017.3.9  20:13:23.530  No Lidar Data!
+2017.3.9  20:13:23.730  No Lidar Data!
+2017.3.9  20:13:23.930  No Lidar Data!
+2017.3.9  20:13:24.130  No Lidar Data!
+2017.3.9  20:13:24.330  No Lidar Data!
+2017.3.9  20:13:24.530  No Lidar Data!
+2017.3.9  20:13:24.730  No Lidar Data!
+2017.3.9  20:13:24.930  No Lidar Data!
+2017.3.9  20:13:25.130  No Lidar Data!
+2017.3.9  20:13:25.330  No Lidar Data!
+2017.3.9  20:13:25.530  No Lidar Data!
+2017.3.9  20:13:25.730  No Lidar Data!
+2017.3.9  20:13:25.930  No Lidar Data!
+2017.3.9  20:13:26.130  No Lidar Data!
+2017.3.9  20:13:26.330  No Lidar Data!
+2017.3.9  20:13:26.530  No Lidar Data!
+2017.3.9  20:13:26.730  No Lidar Data!
+2017.3.9  20:13:26.930  No Lidar Data!
+2017.3.9  20:13:27.130  No Lidar Data!
+2017.3.9  20:13:27.330  No Lidar Data!
+2017.3.9  20:13:27.530  No Lidar Data!
+2017.3.9  20:13:27.730  No Lidar Data!
+2017.3.9  20:13:27.931  No Lidar Data!
+2017.3.9  20:13:28.131  No Lidar Data!
+2017.3.9  20:13:28.331  No Lidar Data!
+2017.3.9  20:13:28.531  No Lidar Data!
+2017.3.9  20:13:28.731  No Lidar Data!
+2017.3.9  20:13:28.931  No Lidar Data!
+2017.3.9  20:13:29.132  No Lidar Data!
+2017.3.9  20:13:29.332  No Lidar Data!
+2017.3.9  20:13:29.533  No Lidar Data!
+2017.3.9  20:13:29.733  No Lidar Data!
+2017.3.9  20:13:58.963  No Lidar Data!
+2017.3.9  20:13:59.163  No Lidar Data!
+2017.3.9  20:13:59.501  No Lidar Data!
+2017.3.9  20:13:59.701  No Lidar Data!
+2017.3.9  20:13:59.902  No Lidar Data!
+2017.3.9  20:14:00.102  No Lidar Data!
+2017.3.9  20:14:00.302  No Lidar Data!
+2017.3.9  20:14:00.502  No Lidar Data!
+2017.3.9  20:14:00.702  No Lidar Data!
+2017.3.9  20:14:00.902  No Lidar Data!
+2017.3.9  20:14:01.102  No Lidar Data!
+2017.3.9  20:14:01.302  No Lidar Data!
+2017.3.9  20:14:01.502  No Lidar Data!
+2017.3.9  20:14:01.702  No Lidar Data!
+2017.3.9  20:14:01.902  No Lidar Data!
+2017.3.9  20:14:02.102  No Lidar Data!
+2017.3.9  20:14:02.302  No Lidar Data!
+2017.3.9  20:14:02.502  No Lidar Data!
+2017.3.9  20:14:02.702  No Lidar Data!
+2017.3.9  20:14:02.902  No Lidar Data!
+2017.3.9  20:14:03.102  No Lidar Data!
+2017.3.9  20:14:03.302  No Lidar Data!
+2017.3.9  20:14:03.502  No Lidar Data!
+2017.3.9  20:14:03.702  No Lidar Data!
+2017.3.9  20:14:03.902  No Lidar Data!
+2017.3.9  20:14:04.102  No Lidar Data!
+2017.3.9  20:14:04.303  No Lidar Data!
+2017.3.9  20:14:04.503  No Lidar Data!
+2017.3.9  20:14:04.703  No Lidar Data!
+2017.3.9  20:19:04.443  No Lidar Data!
+2017.3.9  20:19:04.643  No Lidar Data!
+2017.3.9  20:19:04.843  No Lidar Data!
+2017.3.9  20:19:05.043  No Lidar Data!
+2017.3.9  20:19:05.243  No Lidar Data!
+2017.3.9  20:19:05.443  No Lidar Data!
+2017.3.9  20:19:05.643  No Lidar Data!
+2017.3.9  20:19:05.843  No Lidar Data!
+2017.3.9  20:19:06.043  No Lidar Data!
+2017.3.9  20:19:06.243  No Lidar Data!
+2017.3.9  20:19:06.443  No Lidar Data!
+2017.3.9  20:19:06.643  No Lidar Data!
+2017.3.9  20:19:06.843  No Lidar Data!
+2017.3.9  20:19:07.043  No Lidar Data!
+2017.3.9  20:19:07.243  No Lidar Data!
+2017.3.9  20:19:07.443  No Lidar Data!
+2017.3.9  20:19:07.643  No Lidar Data!
+2017.3.9  20:19:07.843  No Lidar Data!
+2017.3.9  20:19:08.043  No Lidar Data!
+2017.3.9  20:19:08.243  No Lidar Data!
+2017.3.9  20:19:08.443  No Lidar Data!
+2017.3.9  20:19:08.643  No Lidar Data!
+2017.3.9  20:19:08.843  No Lidar Data!
+2017.3.9  20:19:09.043  No Lidar Data!
+2017.3.9  20:19:09.243  No Lidar Data!
+2017.3.9  20:19:09.443  No Lidar Data!
+2017.3.9  20:19:10.739  No Lidar Data!
+2017.3.9  20:19:10.939  No Lidar Data!
+2017.3.9  20:19:11.139  No Lidar Data!
+2017.3.9  20:19:11.340  No Lidar Data!
+2017.3.9  20:19:11.540  No Lidar Data!
+2017.3.9  20:19:11.740  No Lidar Data!
+2017.3.9  20:19:11.940  No Lidar Data!
+2017.3.9  20:19:12.140  No Lidar Data!
+2017.3.9  20:19:12.340  No Lidar Data!
+2017.3.9  20:19:12.540  No Lidar Data!
+2017.3.9  20:19:12.740  No Lidar Data!
+2017.3.9  20:19:12.940  No Lidar Data!
+2017.3.9  20:19:13.140  No Lidar Data!
+2017.3.9  20:19:13.340  No Lidar Data!
+2017.3.9  20:19:13.540  No Lidar Data!
+2017.3.9  20:19:13.740  No Lidar Data!
+2017.3.9  20:19:13.940  No Lidar Data!
+2017.3.9  20:19:14.140  No Lidar Data!
+2017.3.9  20:19:14.340  No Lidar Data!
+2017.3.9  20:19:14.540  No Lidar Data!
+2017.3.9  20:19:14.740  No Lidar Data!
+2017.3.9  20:19:14.940  No Lidar Data!
+2017.3.9  20:19:15.140  No Lidar Data!
+2017.3.9  20:19:15.340  No Lidar Data!
+2017.3.9  20:19:15.540  No Lidar Data!
+2017.3.9  20:19:15.740  No Lidar Data!
+2017.3.9  20:19:15.940  No Lidar Data!
+2017.3.9  20:19:16.140  No Lidar Data!
+2017.3.9  20:19:16.340  No Lidar Data!
+2017.3.9  20:19:16.540  No Lidar Data!
+2017.3.9  20:19:16.740  No Lidar Data!
+2017.3.9  20:19:16.940  No Lidar Data!
+2017.3.9  20:19:17.140  No Lidar Data!
+2017.3.9  20:19:17.340  No Lidar Data!
+2017.3.9  20:19:17.540  No Lidar Data!
+2017.3.9  20:19:17.740  No Lidar Data!
+2017.3.9  20:19:17.940  No Lidar Data!
+2017.3.9  20:19:18.140  No Lidar Data!
+2017.3.9  20:19:18.340  No Lidar Data!
+2017.3.9  20:19:18.540  No Lidar Data!
+2017.3.9  20:19:18.740  No Lidar Data!
+2017.3.9  20:19:18.940  No Lidar Data!
+2017.3.9  20:19:19.140  No Lidar Data!
+2017.3.9  20:19:19.340  No Lidar Data!
+2017.3.9  20:19:19.540  No Lidar Data!
+2017.3.9  20:19:19.740  No Lidar Data!
+2017.3.9  20:19:19.940  No Lidar Data!
+2017.3.9  20:19:20.140  No Lidar Data!
+2017.3.9  20:19:20.340  No Lidar Data!
+2017.3.9  20:19:20.540  No Lidar Data!
+2017.3.9  20:19:20.740  No Lidar Data!
+2017.3.9  20:19:20.940  No Lidar Data!
+2017.3.9  20:19:21.140  No Lidar Data!
+2017.3.9  20:19:21.340  No Lidar Data!
+2017.3.9  20:19:21.540  No Lidar Data!
+2017.3.9  20:19:21.740  No Lidar Data!
+2017.3.9  20:19:21.940  No Lidar Data!
+2017.3.9  20:19:22.140  No Lidar Data!
+2017.3.9  20:19:22.340  No Lidar Data!
+2017.3.9  20:19:22.540  No Lidar Data!
+2017.3.9  20:19:22.740  No Lidar Data!
+2017.3.9  20:19:22.940  No Lidar Data!
+2017.3.9  20:19:23.140  No Lidar Data!
+2017.3.9  20:19:23.340  No Lidar Data!
+2017.3.9  20:19:23.540  No Lidar Data!
+2017.3.9  20:19:23.740  No Lidar Data!
+2017.3.9  20:19:23.940  No Lidar Data!
+2017.3.9  20:19:24.140  No Lidar Data!
+2017.3.9  20:19:24.340  No Lidar Data!
+2017.3.9  20:19:24.540  No Lidar Data!
+2017.3.9  20:19:24.740  No Lidar Data!
+2017.3.9  20:19:24.940  No Lidar Data!
+2017.3.9  20:19:25.140  No Lidar Data!
