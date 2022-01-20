@@ -2,9 +2,9 @@ import pygame, math, serial, numpy
 pygame.init()
 
 #constant based on lidar resolution
-LIDAR_RESOLUTION = 188
+LIDAR_RESOLUTION = 240
 #lidar resolution divided by 4 to simplify the visualization
-VISUALIZATION_RESOLUTION = 188
+VISUALIZATION_RESOLUTION = 240
 
 
 def GetDataFromArduino():
@@ -35,7 +35,7 @@ def SimplifyMeasurments(distances):
 
 
 
-arduino = serial.Serial('COM5', 230400, timeout=.1)
+arduino = serial.Serial('COM8', 230400, timeout=.1)
 
 line_positions = GenerateLinePositions(VISUALIZATION_RESOLUTION)
 print(line_positions)
@@ -47,7 +47,7 @@ font1 = pygame.font.SysFont(sysfont, 72)
 
 while True:
     distances = GetDataFromArduino()
-    if(len(distances) == 188):
+    if(len(distances) == LIDAR_RESOLUTION):
     
         # Did the user click the window close button?
         for event in pygame.event.get():

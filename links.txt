@@ -1,1 +1,4 @@
 https://www.desmos.com/calculator/lfcgiufyvp
+https://stackoverflow.com/questions/59633872/arduinohttpclient-websocket-undocumented-max-message-size
+https://www.youtube.com/watch?v=UmEPTh80KLc
+https://stackoverflow.com/questions/4092591/websocket-live-server
